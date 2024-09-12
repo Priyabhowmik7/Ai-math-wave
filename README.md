@@ -8,7 +8,7 @@
 
 💻 Built with Modern Tech: Developed using Python, OpenCV, and Mediapipe for seamless performance.
 
-📱 Responsive Design: Works across devices, ensuring a smooth user experience on any screen size.
+📱 Responsive Design: Ensuring a smooth user experience .
 
 
 
